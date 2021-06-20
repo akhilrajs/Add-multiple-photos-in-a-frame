@@ -2,18 +2,22 @@
 This program can be used to add multiple photos  into a frame without the use of Photoshop or any graphics editing tool .
 
 <h2>Sample pictures :<h2>
-
-![9C77AE6B-7B20-4F34-ACC9-FE55C698F65B - Euvan Kumar](https://user-images.githubusercontent.com/67222042/122629378-1c3ade00-d0da-11eb-8c5b-707fce745d63.jpeg)
-![7919440B-5646-4175-B546-4A589770127D - Amal Dev](https://user-images.githubusercontent.com/67222042/122629379-1cd37480-d0da-11eb-984d-af481b1344b5.jpeg)
+  
+![elon musk jpg](https://user-images.githubusercontent.com/67222042/122665145-2ab0f480-d1c3-11eb-9199-73040ffc49e5.png)
+![jeff jpg](https://user-images.githubusercontent.com/67222042/122665147-2b498b00-d1c3-11eb-8d1e-49747d0c5bab.png)
+![oabama jpg](https://user-images.githubusercontent.com/67222042/122665148-2be22180-d1c3-11eb-9c01-e298f1604ef5.png)
+![trum jpg](https://user-images.githubusercontent.com/67222042/122665149-2c7ab800-d1c3-11eb-8ab2-458edb05606d.png)
 
   <h2>The sample frame used was :<h2>
     
-![frame](https://user-images.githubusercontent.com/67222042/122629523-46d96680-d0db-11eb-99e9-63f148c6cca1.png)
-  
+![frame png](https://user-images.githubusercontent.com/67222042/122665175-5af89300-d1c3-11eb-8705-feca00e6db77.png)
+ 
 <h2>The Results were :<h2>
 
- ![ASAS](https://user-images.githubusercontent.com/67222042/122629570-9029b600-d0db-11eb-80e0-1c8031b1e7a9.png)
-![fradsd](https://user-images.githubusercontent.com/67222042/122629571-915ae300-d0db-11eb-9daf-a6ac563d3f6a.png)
+![elon musk jpg png](https://user-images.githubusercontent.com/67222042/122665181-677ceb80-d1c3-11eb-9cce-ea73ae2b3be2.png)
+![jeff jpg png](https://user-images.githubusercontent.com/67222042/122665182-68ae1880-d1c3-11eb-93af-a9f15b30a259.png)
+![oabama jpg png](https://user-images.githubusercontent.com/67222042/122665185-68ae1880-d1c3-11eb-9142-d4728b76d61d.png)
+![trum jpg png](https://user-images.githubusercontent.com/67222042/122665186-6946af00-d1c3-11eb-99a3-e93787e95c71.png)
 
   
 <h2>How to use it ?<h2>
